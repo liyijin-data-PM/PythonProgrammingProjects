@@ -1,0 +1,108 @@
+﻿title
+Name of the movies with the year of release in the brackets.
+rating
+Total average rating of the movie on IMDb.
+totalvotes
+Total number of votes given to the movie.
+genre1
+Genre attributed to the movie. A lot of movies have just one or two genres.
+genre2
+Second genre attributed to a movie.
+genre3
+Third genre attributed to a movie.
+metacritic
+Metacritic score.
+budget
+Budget of the movie as per IMDB  data on some of the movies is wrong or is in a different currency (GBP  EUR etc)  this needs to be cleaned before analysing.
+runtime
+Duration of the movie.
+cvotes10
+Number of votes rating the movie 10 stars.
+cvotes09
+Number of votes rating the movie 9 stars.
+cvotes08
+Number of votes rating the movie 8 stars.
+cvotes07
+Number of votes rating the movie 7 stars.
+cvotes06
+Number of votes rating the movie 6 stars.
+cvotes05
+Number of votes rating the movie 5 stars.
+cvotes04
+Number of votes rating the movie 4 stars.
+cvotes03
+Number of votes rating the movie 3 stars.
+cvotes02
+Number of votes rating the movie 2 stars.
+cvotes01
+Number of votes rating the movie 1 stars.
+cvotesmale
+Total number of male voters.
+cvotesfemale
+Total number of female voters.
+cvotesu18
+Number of votes by people aged under 18.
+cvotesu18m
+Number of votes by male voters aged under 18.
+cvotesu18f
+Number of votes by female voters aged under 18.
+cvotes1829
+Number of votes by voters between ages 18 and 29  inclusive of both years.
+cvotes1829m
+Number of votes by male voters between ages 18 and 29  inclusive of both years.
+cvotes1829f
+Number of votes by female voters between ages 18 and 29  inclusive of both years.
+cvotes3044
+Number of votes by voters between ages 30 and 44  inclusive of both years.
+cvotes3044m
+Number of votes by male voters between ages 30 and 44  inclusive of both years.
+cvotes3044f
+Number of votes by female voters between ages 30 and 44  inclusive of both years.
+cvotes45a
+Number of votes by voters aged 45 and above.
+cvotes45am
+Number of votes by male voters aged 45 and above.
+cvotes45af
+Number of votes by female voters aged 45 and above.
+cvotes1000
+Total count of votes by top 1000 users of IMDb.
+cvotesus
+Total count of votes by US based users.
+cvotesnus
+Total count of votes by viewers based outside US.
+votesm
+Average rating by male users.
+votesf
+Average rating by female users.
+votesu18
+Average rating by users under 18 years of age.
+votesu18m
+Average rating by male users under 18 years of age.
+votesu18f
+Average rating by female users under 18 years of age.
+votes1829
+Average rating by users between ages 18 and 29.
+votes1829m
+Average rating by male users between ages 18 and 29.
+votes1829f
+Average rating by female users between ages 18 and 29.
+votes3044
+Average rating by users between ages 30 and 44.
+votes3044m
+Average rating by male users between ages 30 and 44.
+votes3044f
+Average rating by female users between ages 30 and 44.
+votes45a
+Average rating by users age 45 and above.
+votes45am
+Average rating by male users age 45 and above.
+votes45af
+Average rating by female users age 45 and above.
+votesimdb
+Average rating of IMDb staff.
+votes1000
+Average rating of IMDb's top 1000 users.
+votesus
+Average rating of U.S. based users.
+votesnus
+Average rating of users based outside the U.S.
